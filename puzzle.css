@@ -1,0 +1,39 @@
+button{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(31, 207, 31);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+    margin: 4px;
+}
+
+div{
+    background-color: rgb(58, 181, 202);
+    font-size: 23px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 6px;
+    width: 174px;
+}
+.boton0{
+    width: 50px;
+    height: 50px;
+    background-color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+    margin-left: 65px;  
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    margin-left: 15px;
+    color: teal;
+}
+
+section{
+    width: 185px;
+    height: 430px;
+    background-color: yellowgreen;
+}
